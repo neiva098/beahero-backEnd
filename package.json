@@ -1,0 +1,26 @@
+{
+  "name": "semanaoministack",
+  "version": "1.0.0",
+  "description": "semanaOminiStack",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neiva098/semanaOminiStack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neiva098/semanaOminiStack/issues"
+  },
+  "homepage": "https://github.com/neiva098/semanaOminiStack#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "nodemon": "^2.0.2",
+    "sqlite3": "^4.1.1"
+  }
+}
